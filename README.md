@@ -7,4 +7,4 @@
 - Reach me: niloc203@gmail.com - hello@bdaybot.me - Niloc#0421
 - Pronouns: he/him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=Niloc3&theme=radical&show_icons=true)](https://github.com/Niloc3/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=Niloc3&theme=tokyonight&show_icons=true)](https://github.com/Niloc3/)
